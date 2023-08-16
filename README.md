@@ -1,8 +1,8 @@
 
 # content
 
-Rapid click app--
+## Rapid click app
 
-Frontend - React-native
+1. Frontend - React-native
 
-Backend - SqlLite - local DB
+2. Backend - SqlLite - local DB
